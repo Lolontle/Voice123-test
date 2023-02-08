@@ -17,6 +17,10 @@
 6. Worked on other functionality like the pagination, highlight .etc 
 7. Styling
 
+# Worklog
+
+1. I did wate about 3 hours refactoring my method of fetching and displaying data
+
 # Future Improvements and recommendations
 
 1. I wish I had built a custom paginator
