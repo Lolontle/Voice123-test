@@ -16,3 +16,9 @@
 5. Worked on Logic for Search bar
 6. Worked on other functionality like the pagination, highlight .etc 
 7. Styling
+
+# Future Improvements and recommendations
+
+1. I wish I had built a custom paginator
+2. I wish I was able to figure out how to find the first matching paragraph in time although I did leave commented out code in my attempt to solve this problem
+3. I wish I had spent more time styling
